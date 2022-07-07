@@ -108,7 +108,7 @@ p {
 
 /** MediaQuerie **/
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1200px) {
   body {
     overflow-y: hidden;
   }
